@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-image: url(./assets/backgroundDrumKit.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    padding: 5rem 0;
+
+}
+
+
+
